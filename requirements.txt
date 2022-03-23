@@ -2,3 +2,4 @@ numpy
 ipywidgets
 scipy
 voila
+pandas
