@@ -1,8 +1,4 @@
 numpy
 ipywidgets
-nbinteract
-bqplot
-ipympl
-ipyvolume
 scipy
 voila
